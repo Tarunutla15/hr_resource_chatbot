@@ -1,0 +1,66 @@
+# ------------------------------
+# Python / FastAPI / Streamlit
+# ------------------------------
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+myenv/
+.env
+.env.*  # if you keep env per stage like .env.dev, .env.prod
+
+# Dependency folders
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Logs and debug
+*.log
+logs/
+*.sqlite3
+.DS_Store
+
+# Jupyter & IDE
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Cache
+.cache/
+.huggingface/
+*.pkl
+*.joblib
+
+# Model files (optional: if too big for repo)
+*.bin
+*.pt
+*.pth
+*.safetensors
+
+# Streamlit / Temp files
+.streamlit/
+**/__pycache__/
+
+# Coverage / Testing
+htmlcov/
+.tox/
+.coverage
+coverage.xml
+pytest_cache/
+
+# OS specific
+Thumbs.db
+Desktop.ini
+
+# ------------------------------
+# Node / React (if frontend uses React)
+# ------------------------------
+frontend/node_modules/
+frontend/build/
+frontend/.next/
+frontend/.cache/

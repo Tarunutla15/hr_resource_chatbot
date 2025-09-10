@@ -1,0 +1,164 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "role": "Full Stack Engineer",
+      "skills": ["Python", "React", "AWS", "Docker"],
+      "experience_years": 5,
+      "projects": ["E-commerce Platform", "Healthcare Dashboard"],
+      "availability": "available",
+      "notes": "Worked on healthcare dashboard integrating backend ML microservices."
+    },
+    {
+      "id": 2,
+      "name": "Michael Rodriguez",
+      "role": "ML Engineer",
+      "skills": ["scikit-learn", "pandas", "Python", "Ensemble Methods"],
+      "experience_years": 4,
+      "projects": ["Patient Risk Prediction System", "Fraud Detection"],
+      "availability": "available",
+      "notes": "Experience with HIPAA considerations and EHR data."
+    },
+    {
+      "id": 3,
+      "name": "Dr. Sarah Chen",
+      "role": "Senior ML Researcher",
+      "skills": ["TensorFlow", "PyTorch", "Computer Vision", "Python"],
+      "experience_years": 6,
+      "projects": ["Medical Diagnosis Platform", "X-ray Analysis"],
+      "availability": "on_notice",
+      "notes": "Published papers on medical imaging; deep learning expert."
+    },
+    {
+      "id": 4,
+      "name": "Rahul Mehta",
+      "role": "Backend Engineer / DevOps",
+      "skills": ["Node.js", "AWS", "Docker", "Kubernetes", "Terraform"],
+      "experience_years": 7,
+      "projects": ["Microservices Migration", "Logging & CI/CD"],
+      "availability": "busy",
+      "notes": "Strong infra & automation background; containerization expert."
+    },
+    {
+      "id": 5,
+      "name": "Priya Sharma",
+      "role": "Mobile Developer",
+      "skills": ["React Native", "TypeScript", "Firebase"],
+      "experience_years": 3,
+      "projects": ["Retail Mobile App", "Field Service App"],
+      "availability": "available",
+      "notes": "React Native specialist; worked on performance and offline sync."
+    },
+    {
+      "id": 6,
+      "name": "Vikram Singh",
+      "role": "Data Engineer",
+      "skills": ["Spark", "Python", "SQL", "Kafka", "AWS"],
+      "experience_years": 5,
+      "projects": ["Analytics Pipeline", "ETL for AdTech"],
+      "availability": "available",
+      "notes": "Designed data pipelines and worked on streaming ETL."
+    },
+    {
+      "id": 7,
+      "name": "Emily Davis",
+      "role": "NLP Engineer",
+      "skills": ["Python", "transformers", "spaCy", "HuggingFace"],
+      "experience_years": 4,
+      "projects": ["Chatbot NLU", "Document Summarization"],
+      "availability": "available",
+      "notes": "Experience fine-tuning language models and intent classification."
+    },
+    {
+      "id": 8,
+      "name": "Chen Li",
+      "role": "Computer Vision Engineer",
+      "skills": ["PyTorch", "OpenCV", "Python", "CUDA"],
+      "experience_years": 4,
+      "projects": ["Retail Visual Search", "Automated Inspection"],
+      "availability": "busy",
+      "notes": "Strong CV pipelines and model optimization for edge devices."
+    },
+    {
+      "id": 9,
+      "name": "Omar Hassan",
+      "role": "Frontend Engineer",
+      "skills": ["React", "Next.js", "TypeScript", "CSS"],
+      "experience_years": 3,
+      "projects": ["Admin Dashboards", "Customer Portal"],
+      "availability": "available",
+      "notes": "UX-focused frontend engineer with dashboard experience."
+    },
+    {
+      "id": 10,
+      "name": "Natalia Petrova",
+      "role": "Full Stack / ML",
+      "skills": ["Python", "Flask", "TensorFlow", "Postgres", "Docker"],
+      "experience_years": 5,
+      "projects": ["Recommendation Engine", "A/B Testing Platform"],
+      "availability": "available",
+      "notes": "Built ML + production serving pipelines."
+    },
+    {
+      "id": 11,
+      "name": "Jose Martinez",
+      "role": "Cloud Engineer",
+      "skills": ["GCP", "Kubernetes", "Docker", "CI/CD"],
+      "experience_years": 6,
+      "projects": ["Container Platform", "Cost Optimization"],
+      "availability": "on_notice",
+      "notes": "Migrated services to GCP and optimized deployments."
+    },
+    {
+      "id": 12,
+      "name": "Fatima Khan",
+      "role": "Data Scientist",
+      "skills": ["Python", "pandas", "scikit-learn", "SQL"],
+      "experience_years": 3,
+      "projects": ["Customer Segmentation", "Churn Model"],
+      "availability": "available",
+      "notes": "Strong analytics background and model evaluation expertise."
+    },
+    {
+      "id": 13,
+      "name": "Arjun Reddy",
+      "role": "Mobile + Backend",
+      "skills": ["React Native", "Node.js", "AWS", "Docker"],
+      "experience_years": 4,
+      "projects": ["Logistics App", "Driver Tracking System"],
+      "availability": "available",
+      "notes": "Built mobile apps integrated with cloud backend services."
+    },
+    {
+      "id": 14,
+      "name": "Sneha Verma",
+      "role": "ML Ops Engineer",
+      "skills": ["Docker", "Kubernetes", "MLflow", "Python"],
+      "experience_years": 4,
+      "projects": ["Model CI/CD", "Monitoring & Drift Detection"],
+      "availability": "busy",
+      "notes": "Focus on deployment, reproducibility, and model monitoring."
+    },
+    {
+      "id": 15,
+      "name": "Kunal Gupta",
+      "role": "Backend Engineer",
+      "skills": ["Java", "Spring Boot", "MySQL", "AWS"],
+      "experience_years": 5,
+      "projects": ["Payment Gateway", "Order Processing"],
+      "availability": "available",
+      "notes": "High-throughput backend systems experience."
+    },
+    {
+      "id": 16,
+      "name": "Aisha Begum",
+      "role": "Junior ML Engineer",
+      "skills": ["Python", "scikit-learn", "pandas"],
+      "experience_years": 2,
+      "projects": ["Lead Scoring Model", "Data Labeling Pipeline"],
+      "availability": "available",
+      "notes": "Early-career ML engineer, good for assisted tasks."
+    }
+  ]
+}
