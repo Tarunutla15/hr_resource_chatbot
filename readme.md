@@ -1,4 +1,4 @@
-# 🔎 HR Resource Query Chatbot
+<img width="1324" height="631" alt="image" src="https://github.com/user-attachments/assets/c7e86e6a-193c-4eec-86fd-4b45bb1926d8" /># 🔎 HR Resource Query Chatbot
 
 ## 📖 Overview
 
@@ -218,11 +218,9 @@ With more time, I would add:
 
 ## 🎯 Demo
 
-### Screenshots
-- Chat Interface: `screenshots/chat-interface.png`
-- Candidate Results: `screenshots/candidate-results.png`
+### Video  
+[![Watch the demo](https://img.youtube.com/vi/l7nJ0fv4gRA/0.jpg)](https://youtu.be/l7nJ0fv4gRA)
 
-## 📝 License
 
 MIT License - feel free to use this project for learning and development purposes.
 
